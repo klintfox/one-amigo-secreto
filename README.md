@@ -13,3 +13,33 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 - Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
 - Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+# Trello
+https://trello.com/b/v0TFbgqP/trello-challenge-amigo-secreto-esp
+
+
+# Capturas
+- ![Inicio](https://github.com/klintfox/one-amigo-secreto/blob/main/captures/1.PNG)
+- ![Validar entrada](https://github.com/klintfox/one-amigo-secreto/blob/main/captures/2.PNG)
+- ![Nombres ingresados](https://github.com/klintfox/one-amigo-secreto/blob/main/captures/3.PNG)
+- ![Sorteo aleatorio](https://github.com/klintfox/one-amigo-secreto/blob/main/captures/4.PNG)
+
+- Inicio
+<p align="center">
+  <img src="https://github.com/klintfox/one-amigo-secreto/blob/main/captures/1.PNG" alt="Inicio" width="400"/>
+</p>
+
+- Validar nombres
+<p align="center">
+  <img src="https://github.com/klintfox/one-amigo-secreto/blob/main/captures/2.PNG" alt="Validar entrada" width="400"/>
+</p>
+
+- Nombres ingresados
+<p align="center">
+  <img src="https://github.com/klintfox/one-amigo-secreto/blob/main/captures/3.PNG" alt="Nombres ingresados" width="400"/>
+</p>
+
+- Sorteo aleatorio
+<p align="center">
+  <img src="https://github.com/klintfox/one-amigo-secreto/blob/main/captures/4.PNG" alt="Sorteo aleatorio" width="400"/>
+</p>
